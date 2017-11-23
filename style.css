@@ -1,0 +1,15 @@
+html,body{
+	background-color: cyan!important;
+}
+.scroll-bar { 
+	height: 400px; 
+	width:700px;
+	backgroun-color:white;
+	overflow: scroll; 
+} 
+
+.do-my-border{
+	border-style: solid;
+	background-color: white;
+}
+
